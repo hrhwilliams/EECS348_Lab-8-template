@@ -30,12 +30,11 @@ int Matrix::sum_diagonal_minor() const {
     return 0;
 }
 void Matrix::swap_rows(std::size_t r1, std::size_t r2) {
+
 }
 void Matrix::swap_cols(std::size_t c1, std::size_t c2) {
+
 }
 void Matrix::print_matrix() const {
-}
 
-int main(int argc, char *argv[]) {
-    return 0;
 }
